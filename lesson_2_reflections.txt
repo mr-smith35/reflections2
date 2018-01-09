@@ -6,3 +6,8 @@ It allows you to bundle files into a logical unit before actually commiting, but
 
 3) How can you use the staging area to make sure you have one commit per logical change?
 You can 'group' together all the files that have been changed, changing them one by one, and "add"ing them to the staging area, until you have enough for one logical change.  Then, you commit them all at once. 
+
+4) What is poetry?
+-- Speaking Painting
+-- All things born with wings that sing
+-- What exists between the lines
