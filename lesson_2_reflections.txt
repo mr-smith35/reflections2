@@ -8,6 +8,6 @@ It allows you to bundle files into a logical unit before actually commiting, but
 You can 'group' together all the files that have been changed, changing them one by one, and "add"ing them to the staging area, until you have enough for one logical change.  Then, you commit them all at once. 
 
 4) What is poetry?
--- Speaking Painting
--- All things born with wings that sing
--- What exists between the lines
+-- Speaking Painting, by Plutarch
+-- All things born with wings that sing, by Lawrence Ferlinghetti
+-- What exists between the lines, by Lawrence Ferlinghetti
